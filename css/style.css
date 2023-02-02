@@ -1,3 +1,31 @@
-p{
-    color: red;
+/* .fontclass{
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+
+    font: italic 600 28px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+/* .text{
+    text-align: center;
+    color: crimson;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-transform: lowercase;
+}
+
+a{
+    text-decoration: none;
+    
+} */
+
+body{
+    /* background-color: darkgreen;
+    background-image: url(../img/1.jpg);
+    color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: top center; */
+    
+    background: darkolivegreen url(../img/5.jpg) top center no-repeat ;
 }
