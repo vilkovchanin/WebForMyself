@@ -30,13 +30,13 @@ a{
     background: darkolivegreen url(../img/5.jpg) top center no-repeat ;
 } */
 
-div{
+/* div{
     width: 200px;
     height: 144px ;
     background-color: cadetblue;
     color: aliceblue;
     overflow: auto;
-}
+} */
 
 .border{
     border-top: 2px solid red;
@@ -58,4 +58,12 @@ div{
     width: 300px;
     margin: 30px auto 100px auto;
     box-sizing: border-box;
+}
+
+.edClass{
+    width: 50%;
+    border: 1px solid black;
+    margin: 30px auto;
+    padding: 30px;
+    font-size: 16px;
 }
