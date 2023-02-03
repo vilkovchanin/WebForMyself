@@ -1,3 +1,20 @@
+/* .img{
+    float: left;
+    margin: 0px 20px 0px 0px;
+}
+.clr{
+    clear: both;
+} */
+
+
+
+.text{
+    visibility: visible;
+    /* opacity: 0.3; */
+    display: none;
+}
+
+
 /* .fontclass{
     font-size: 22px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -38,22 +55,22 @@ a{
     overflow: auto;
 } */
 
-.border{
+/* .border{
     border-top: 2px solid red;
     border-bottom: 3px dotted darkorchid;
     border-left: 4px dashed forestgreen;
     border-right: 5px solid black;
-    /* padding-top: 20px;
+    padding-top: 20px;
     padding-right: 40px;
     padding-bottom: 100px;
-    padding-left: 30px; */
+    padding-left: 30px;
     padding: 10px 50px 100px 200px;
 
-    /* margin-top: 100px;
+    margin-top: 100px;
     margin-bottom: 40px;
     margin-left: 50px;
     margin-right: 60px; */
-    /* margin: 100px 40px 50px 60px; */
+    /* margin: 100px 40px 50px 60px;
 
     width: 300px;
     margin: 30px auto 100px auto;
@@ -66,4 +83,4 @@ a{
     margin: 30px auto;
     padding: 30px;
     font-size: 16px;
-}
+} */ 
